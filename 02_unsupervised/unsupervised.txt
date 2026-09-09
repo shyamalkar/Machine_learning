@@ -1,0 +1,65 @@
+# What is Unsueprvised learning ? 
+
+# Unsupervised Learning — What is it?
+
+**Unsupervised Learning** is a type of Machine Learning where a model learns from **data without labels**.
+
+### Simple example
+
+Suppose we have customer data:
+
+| Customer | Age | Income |
+| -------- | --: | -----: |
+| A        |  22 |    20k |
+| B        |  25 |    25k |
+| C        |  24 |    22k |
+| D        |  45 |    80k |
+| E        |  48 |    90k |
+
+Here, we **don't tell the model**:
+
+> "A, B, C are Group 1 and D, E are Group 2."
+
+The model looks at the data itself and tries to find **patterns or groups**.
+
+It may discover:
+
+```text
+        Customer Data
+              ↓
+       Unsupervised ML
+              ↓
+     ┌────────┴────────┐
+     ↓                 ↓
+Young/Lower         Older/Higher
+Income Group        Income Group
+```
+
+### The key difference
+
+**Supervised Learning:**
+
+```text
+Data + Labels
+     ↓
+   Model
+     ↓
+ Prediction
+```
+
+**Unsupervised Learning:**
+
+```text
+Data only
+   ↓
+ Model
+   ↓
+Find hidden patterns
+```
+
+### In one sentence
+
+> **Unsupervised Learning teaches a machine to find hidden patterns, structures, or groups in data when we don't provide the answers (labels).**
+
+The two major things we'll study are **Clustering** and **Dimensionality Reduction**.
+
