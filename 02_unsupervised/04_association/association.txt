@@ -1,0 +1,1 @@
+Association rule learning is a rule-based machine learning method used to discover hidden relationships, patterns, or co-occurrences between variables in large databases.

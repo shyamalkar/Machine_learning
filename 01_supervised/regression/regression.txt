@@ -1,0 +1,24 @@
+Regression in machine learning is a supervised learning technique used to predict continuous numerical values by finding the relationship between input features and a target variable. [1]  
+How Regression Works 
+
+• The model analyzes a training dataset containing input features (independent variables) and known continuous output values (dependent variables). 
+• It learns the mathematical relationship between these variables and fits a best-fit line or curve to the data. 
+• The goal is to minimize the error or distance between the predicted values and the actual values. 
+• You can learn more about the mechanics of this approach through Google's Linear Regression Guide. [2, 3, 4, 5]  
+
+Common Types of Regression Models 
+
+• Simple Linear Regression: Models the relationship between a single input feature and a continuous target using a straight line. 
+• Multiple Linear Regression: Uses two or more input features to predict a single continuous output. 
+• Polynomial Regression: Fits a non-linear curved relationship by using higher-degree polynomial terms of the input features. 
+• Ridge and Lasso Regression: Regularized versions of linear regression that add penalty terms to prevent overfitting by shrinking large coefficients. [1, 6]  
+
+Real-World Examples 
+
+• Finance: Predicting a company's future stock price or quarterly revenue. 
+• Real Estate: Estimating a house's selling price based on square footage, location, and number of rooms. 
+• Weather: Forecasting exact future temperatures or rainfall amounts. [1, 6, 7, 8, 9]  
+
+If you want, I can explain the difference between regression and classification or show you a simple Python code example using linear regression. 
+AI responses may include mistakes.
+

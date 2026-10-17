@@ -1,1 +1,17 @@
 What is classification ? 
+
+
+
+Classification in machine learning is a supervised learning technique used to predict discrete categories or class labels for input data based on patterns learned from training sets. [1, 2]  
+Types of Classification 
+
+• Binary Classification: Divides data into two distinct groups, such as spam or not spam. 
+• Multiclass Classification: Sorts data into one of more than two specific categories, such as identifying if an image is a cat, dog, or bird. 
+• Multilabel Classification: Assigns multiple independent labels to a single piece of data simultaneously. [1]  
+
+Common Algorithms 
+
+• Logistic Regression: A linear method used to estimate probabilities for binary outcomes. 
+• Decision Trees: Flowchart-like structures that split data based on feature conditions. 
+• Support Vector Machines (SVM): Algorithms that find an optimal boundary line or hyperplane to separate classes. 
+• K-Nearest Neighbors (KNN): Classifies data points based on the majority label of their nearest neighbors. [3, 4]  

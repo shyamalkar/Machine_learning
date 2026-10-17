@@ -1,0 +1,18 @@
+Supervised learning is a type of machine learning where an algorithm learns from labeled training data to make predictions or classify new, unseen data
+
+
+
+
+ClassificationPredicts a discrete category or label (e.g., Yes/No, Cat/Dog/Bird).Filtering spam emails or diagnosing whether a medical tumor is benign or malignant.Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forest.
+
+
+Predicts a continuous numerical value.Forecasting house prices, stock market trends, or tomorrow's temperature.Linear Regression, Polynomial Regression, Ridge/Lasso Regression.
+
+
+
+
+# Advantage and Limitations 
+
+Pros: Highly accurate and reliable when trained on large, high-quality datasets. The goals and success metrics are very clear because you know what the correct answers should look like.
+
+Cons: Getting labeled data is incredibly time consuming and expensive because humans usually have to label the data manually. It can also suffer from overfitting, which means the model memorizes the training data perfectly but fails to make accurate predictions on new data it hasn't seen before.
