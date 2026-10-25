@@ -25,29 +25,29 @@ approaches, their algorithms, theoretical foundations, practical implementations
     
     Build a collection of reproducible machine learning notebooks and projects.
 
-Repository Contents
+# Repository Contents
 
-1. Supervised Learning
+# 1. Supervised Learning
 
-Supervised learning uses labeled data to learn a mapping between input features and a target variable.
+`Supervised learning uses labeled data to learn a mapping between input features and a target variable.`
 
-Classification
+`Classification`
 
-Classification algorithms predict discrete classes or categories.
+`Classification algorithms predict discrete classes or categories.`
 
-Algorithms covered:
+`Algorithms covered:`
 
-  Logistic Regression
-  Decision Tree Classifier
-  Random Forest Classifier
-  Support Vector Machine (SVM)
-  K-Nearest Neighbors (KNN)
-  Naive Bayes
-  Gradient Boosting Classifier
-  XGBoost Classifier
-  LightGBM Classifier
+  `Logistic Regression`
+  `Decision Tree Classifier`
+  `Random Forest Classifier`
+  `Support Vector Machine (SVM)`
+  `K-Nearest Neighbors (KNN)`
+  `Naive Bayes`
+  `Gradient Boosting Classifier
+  `XGBoost Classifier`
+  `LightGBM Classifier`
 
-Topics include classification boundaries, probability predictions, overfitting, regularization, feature preprocessing, hyperparameter tuning, and evaluation metrics.
+`Topics include classification boundaries, probability predictions, overfitting, regularization, feature preprocessing, hyperparameter tuning, and evaluation metrics.`
 
 Evaluation metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix, ROC-AUC, and Precision-Recall AUC where appropriate.
 
