@@ -51,7 +51,7 @@ Classification :- https://github.com/shyamalkar/Machine_learning/tree/main/01_su
 
 Evaluation metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix, ROC-AUC, and Precision-Recall AUC where appropriate.
 
-`Regression`
+Regression :- https://github.com/shyamalkar/Machine_learning/tree/main/01_supervised/regression
 
 Regression algorithms predict continuous numerical values.
 
