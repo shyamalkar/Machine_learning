@@ -75,7 +75,9 @@ Topics include regression assumptions, loss functions, regularization, feature t
 2. Unsupervised Learning
   Unsupervised learning identifies patterns and structures in data without requiring labeled target values.
 
-1. Clustering
+1. Clustering :- https://github.com/shyamalkar/Machine_learning/tree/main/02_unsupervised/01_clustering
+
+
   Clustering algorithms group observations based on similarities or distances.
 
 Algorithms covered:
@@ -93,7 +95,7 @@ Topics include distance metrics, cluster assignments, density-based clustering, 
 
 Evaluation methods include Silhouette Score, Davies-Bouldin Index, Calinski-Harabasz Index, and visual inspection where appropriate.
 
-2. Dimensionality Reduction
+2. Dimensionality Reduction :- https://github.com/shyamalkar/Machine_learning/tree/main/02_unsupervised/02_dimensionality_reduction
 
 Dimensionality reduction represents data using fewer dimensions while attempting to preserve relevant information or structure.
 
@@ -110,7 +112,7 @@ Methods covered:
 Topics include variance preservation, feature compression, visualization of high-dimensional data, information loss, and the differences between linear and nonlinear methods.
 Note: LDA is supervised and uses class labels. It is included here because it can be used for dimensionality reduction as well as classification.
 
-3. Anomaly Detection
+3. Anomaly Detection :- https://github.com/shyamalkar/Machine_learning/tree/main/02_unsupervised/03_anomaly_detection
 
 Anomaly detection identifies observations that differ significantly from normal patterns.
 Algorithms covered:
@@ -124,7 +126,9 @@ Algorithms covered:
 
 Topics include outlier detection, normal behavior modeling, contamination assumptions, anomaly scores, threshold selection, and evaluation when anomaly labels are available.
 
-4. Association Rule Mining and Pattern Discovery
+4. Association :- https://github.com/shyamalkar/Machine_learning/tree/main/02_unsupervised/04_association
+
+ Rule Mining and Pattern Discovery
 
 These methods identify relationships and recurring patterns among items or events.
 
@@ -137,9 +141,11 @@ Methods covered:
 
 Topics include support, confidence, lift, frequent itemsets, association rules, and patterns in ordered sequences.
 
-3. Semi-Supervised Learning
+3. Semi-Supervised Learning 
 
-Semi supervised learning combines a small amount of labeled data with a larger amount of unlabeled data.
+Semi supervised learning :- https://github.com/shyamalkar/Machine_learning/tree/main/03_semi_supervised
+
+combines a small amount of labeled data with a larger amount of unlabeled data.
 
 Topics and methods include:
     
@@ -154,7 +160,9 @@ The focus is on understanding when unlabeled data can help, how pseudo labels ar
 
 4. Reinforcement Learning
 
-Reinforcement learning studies how an agent learns to make decisions by interacting with an environment and receiving rewards or penalties.
+Reinforcement learning :- https://github.com/shyamalkar/Machine_learning/tree/main/04_reinforcement
+
+studies how an agent learns to make decisions by interacting with an environment and receiving rewards or penalties.
 
 Model Based Reinforcement Learning
 
