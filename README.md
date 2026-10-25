@@ -1,4 +1,4 @@
-Machine Learning: Algorithms, Theory, Coding, and Interview Preparation
+## Machine Learning: Algorithms, Theory, Coding, and Interview Preparation
 
 This repository is my structured learning journey through Machine Learning. It covers the major machine learning approaches, their algorithms, theoretical foundations, practical implementations with coding, and interview preparation.
 
