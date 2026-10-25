@@ -267,52 +267,46 @@ Repository Structure
 
 The repository is organized by machine learning task and algorithm family. The structure may evolve as new topics and implementations are added.
 
-machine-learning/
-
-│
-
-├── README.md
-
-│
-
-├── supervised-learning/
-│   
-
-├── classification/
-│
-├── logistic-regression/
-│
-├── decision-tree/
-|
-├── random-forest/
-|
-├── svm/
-├── knn/
-├── naive-bayes/
-│   │   └── boosting/
-
-│   │
-│   └── regression/
-│       ├── linear-regression/
-│       ├── polynomial-regression/
-│       ├── ridge-regression/
-│       ├── lasso-regression/
-│       ├── svr/
-│       └── tree-and-boosting-regression/
-│
-├── unsupervised-learning/
-│   ├── clustering/
-│   ├── dimensionality-reduction/
-│   ├── anomaly-detection/
-│   └── association-rule-mining/
-│
-├── semi-supervised-learning/
-│
-├── reinforcement-learning/
-│   ├── model-based/
-│   └── model-free/
-│
-└── interview-questions/
+    machine-learning/
+    │
+    ├── README.md
+    │
+    ├── supervised-learning/
+    │   
+    
+    ├── classification/
+    │
+    ├── logistic-regression/
+    │
+    ├── decision-tree/
+    |
+    ├── random-forest/
+    |
+    ├── svm/
+    ├── knn/
+    ├── naive-bayes/
+    │   │   └── boosting/
+    
+    │   │
+    │   └── regression/
+    │       ├── linear-regression/
+    │       ├── polynomial-regression/
+    │       ├── ridge-regression/
+    │       ├── lasso-regression/
+    │       ├── svr/
+    │       └── tree-and-boosting-regression/
+    │
+    ├── unsupervised-learning/
+    │   ├── clustering/
+    │   ├── dimensionality-reduction/
+    │   ├── anomaly-detection/
+    │   └── association-rule-mining/
+    │
+    ├── semi-supervised-learning/
+    │
+    ├── reinforcement-learning/
+    │   ├── model-based/
+    │   └── model-free/
 
 Individual algorithm folders may contain notebooks, supporting code, explanations, and exercises as the repository develops.
 
