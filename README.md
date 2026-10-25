@@ -31,7 +31,7 @@ approaches, their algorithms, theoretical foundations, practical implementations
 
 `Supervised learning uses labeled data to learn a mapping between input features and a target variable.`
 
-`Classification`
+Classification :- https://github.com/shyamalkar/Machine_learning/tree/main/01_supervised/classification
 
 `Classification algorithms predict discrete classes or categories.`
 
