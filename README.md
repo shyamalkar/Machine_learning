@@ -268,18 +268,31 @@ Repository Structure
 The repository is organized by machine learning task and algorithm family. The structure may evolve as new topics and implementations are added.
 
 machine-learning/
+
 │
+
 ├── README.md
+
 │
+
 ├── supervised-learning/
+
 │   ├── classification/
+
 │   │   ├── logistic-regression/
+
 │   │   ├── decision-tree/
+
 │   │   ├── random-forest/
+
 │   │   ├── svm/
+
 │   │   ├── knn/
+
 │   │   ├── naive-bayes/
+
 │   │   └── boosting/
+
 │   │
 │   └── regression/
 │       ├── linear-regression/
