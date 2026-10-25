@@ -18,8 +18,11 @@ approaches, their algorithms, theoretical foundations, practical implementations
     Understand data preprocessing, feature engineering, and model evaluation.
     
     Experiment with important hyperparameters and understand their effects.
+    
     Learn the strengths, limitations, and practical applications of each algorithm.
+    
     Prepare for Machine Learning Engineer interviews through conceptual and coding questions.
+    
     Build a collection of reproducible machine learning notebooks and projects.
 
 Repository Contents
