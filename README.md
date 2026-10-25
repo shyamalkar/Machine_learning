@@ -273,7 +273,6 @@ The repository is organized by machine learning task and algorithm family. The s
     │
     ├── supervised-learning/
     │   
-    
     ├── classification/
     │
     ├── logistic-regression/
@@ -286,7 +285,6 @@ The repository is organized by machine learning task and algorithm family. The s
     ├── knn/
     ├── naive-bayes/
     │   │   └── boosting/
-    
     │   │
     │   └── regression/
     │       ├── linear-regression/
@@ -305,8 +303,8 @@ The repository is organized by machine learning task and algorithm family. The s
     ├── semi-supervised-learning/
     │
     ├── reinforcement-learning/
-    │   ├── model-based/
-    │   └── model-free/
+        ├── model-based/
+        └── model-free/
 
 Individual algorithm folders may contain notebooks, supporting code, explanations, and exercises as the repository develops.
 
