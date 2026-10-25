@@ -38,11 +38,17 @@ approaches, their algorithms, theoretical foundations, practical implementations
 `Algorithms covered:`
 
   `Logistic Regression`
+  
   `Decision Tree Classifier`
+  
   `Random Forest Classifier`
+  
   `Support Vector Machine (SVM)`
+  
   `K-Nearest Neighbors (KNN)`
+  
   `Naive Bayes`
+  
   `Gradient Boosting Classifier
   `XGBoost Classifier`
   `LightGBM Classifier`
