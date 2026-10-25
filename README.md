@@ -37,7 +37,7 @@ approaches, their algorithms, theoretical foundations, practical implementations
 
 `Algorithms covered:`
 
-      Logistic Regression
+      Logistic Regression :- https://github.com/shyamalkar/Machine_learning/tree/main/01_supervised/classification/01_logictics_regression
       Decision Tree Classifier
       Random Forest Classifier
       Support Vector Machine (SVM)
@@ -51,21 +51,22 @@ approaches, their algorithms, theoretical foundations, practical implementations
 
 Evaluation metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix, ROC-AUC, and Precision-Recall AUC where appropriate.
 
-Regression
+`Regression`
+
 Regression algorithms predict continuous numerical values.
 
 Algorithms covered:
-
-  Linear Regression
-  Polynomial Regression
-  Ridge Regression
-  Lasso Regression
-  Support Vector Regression (SVR)
-  Decision Tree Regressor
-  Random Forest Regressor
-  Gradient Boosting Regressor
-  XGBoost Regressor
-  LightGBM Regressor
+    
+      Linear Regression
+      Polynomial Regression
+      Ridge Regression
+      Lasso Regression
+      Support Vector Regression (SVR)
+      Decision Tree Regressor
+      Random Forest Regressor
+      Gradient Boosting Regressor
+      XGBoost Regressor
+      LightGBM Regressor
 
 Topics include regression assumptions, loss functions, regularization, feature transformations, bias-variance trade-off, and residual analysis.
 
@@ -79,16 +80,16 @@ Topics include regression assumptions, loss functions, regularization, feature t
 
 Algorithms covered:
   
-  K-Means
-  Hierarchical Clustering
-  DBSCAN
-  Gaussian Mixture Models (GMM)
-  Mean Shift
-  Spectral Clustering
-  BIRCH
-  Affinity Propagation
+      K-Means
+      Hierarchical Clustering
+      DBSCAN
+      Gaussian Mixture Models (GMM)
+      Mean Shift
+      Spectral Clustering
+      BIRCH
+      Affinity Propagation
 
-Topics include distance metrics, cluster assignments, density-based clustering, centroid-based clustering, and choosing an appropriate number of clusters.
+Topics include distance metrics, cluster assignments, density-based clustering, centroid based clustering, and choosing an appropriate number of clusters.
 
 Evaluation methods include Silhouette Score, Davies-Bouldin Index, Calinski-Harabasz Index, and visual inspection where appropriate.
 
@@ -98,13 +99,13 @@ Dimensionality reduction represents data using fewer dimensions while attempting
 
 Methods covered:
 
-  Principal Component Analysis (PCA)
-  t-SNE
-  Uniform Manifold Approximation and Projection (UMAP)
-  Linear Discriminant Analysis (LDA)
-  Independent Component Analysis (ICA)
-  Factor Analysis
-  Autoencoders
+      Principal Component Analysis (PCA)
+      t-SNE
+      Uniform Manifold Approximation and Projection (UMAP)
+      Linear Discriminant Analysis (LDA)
+      Independent Component Analysis (ICA)
+      Factor Analysis
+      Autoencoders
 
 Topics include variance preservation, feature compression, visualization of high-dimensional data, information loss, and the differences between linear and nonlinear methods.
 Note: LDA is supervised and uses class labels. It is included here because it can be used for dimensionality reduction as well as classification.
@@ -113,13 +114,13 @@ Note: LDA is supervised and uses class labels. It is included here because it ca
 
 Anomaly detection identifies observations that differ significantly from normal patterns.
 Algorithms covered:
-
-  Isolation Forest
-  One-Class SVM
-  Local Outlier Factor (LOF)
-  Elliptic Envelope
-  DBSCAN-based outlier detection
-  Autoencoder-based anomaly detection
+    
+      Isolation Forest
+      One-Class SVM
+      Local Outlier Factor (LOF)
+      Elliptic Envelope
+      DBSCAN-based outlier detection
+      Autoencoder-based anomaly detection
 
 Topics include outlier detection, normal behavior modeling, contamination assumptions, anomaly scores, threshold selection, and evaluation when anomaly labels are available.
 
@@ -129,10 +130,10 @@ These methods identify relationships and recurring patterns among items or event
 
 Methods covered:
 
-  FP-Growth
-  Eclat
-  Association Rule Generation
-  Sequential Pattern Mining
+      FP-Growth
+      Eclat
+      Association Rule Generation
+      Sequential Pattern Mining
 
 Topics include support, confidence, lift, frequent itemsets, association rules, and patterns in ordered sequences.
 
@@ -141,13 +142,13 @@ Topics include support, confidence, lift, frequent itemsets, association rules, 
 Semi supervised learning combines a small amount of labeled data with a larger amount of unlabeled data.
 
 Topics and methods include:
-
-  Self-Training
-  Pseudo-Labeling
-  Label Propagation
-  Label Spreading
-  Semi-Supervised Support Vector Machines
-  Consistency-based learning concepts
+    
+      Self-Training
+      Pseudo-Labeling
+      Label Propagation
+      Label Spreading
+      Semi-Supervised Support Vector Machines
+      Consistency-based learning concepts
 
 The focus is on understanding when unlabeled data can help, how pseudo labels are generated, and how incorrect pseudo-labels can affect model performance.
 
@@ -161,10 +162,10 @@ The agent uses a known or learned model of the environment to plan actions and e
 
 Topics include:
 
-  Environment dynamics
-  Planning
-  Model learning
-  Model Predictive Control concepts
+      Environment dynamics
+      Planning
+      Model learning
+      Model Predictive Control concepts
 
 Model Free Reinforcement Learning
 
@@ -172,14 +173,14 @@ The agent learns a policy or value estimates without requiring an explicit model
 
 Topics and algorithms include:
 
-  Multi-Armed Bandits
-  Monte Carlo Methods
-  Temporal-Difference Learning
-  Q Learning
-  SARSA
-  Deep Q-Networks (DQN)
-  Policy Gradient Methods
-  Actor-Critic Methods
+      Multi-Armed Bandits
+      Monte Carlo Methods
+      Temporal-Difference Learning
+      Q Learning
+      SARSA
+      Deep Q-Networks (DQN)
+      Policy Gradient Methods
+      Actor-Critic Methods
 
 Core concepts include states, actions, rewards, policies, value functions, exploration versus exploitation, and the discount factor.
 Standard Structure for Each Algorithm
