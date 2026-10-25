@@ -37,7 +37,7 @@ Classification :- https://github.com/shyamalkar/Machine_learning/tree/main/01_su
 
 `Algorithms covered:`
 
-      Logistic Regression :- https://github.com/shyamalkar/Machine_learning/tree/main/01_supervised/classification/01_logictics_regression
+      Logistic Regression 
       Decision Tree Classifier
       Random Forest Classifier
       Support Vector Machine (SVM)
