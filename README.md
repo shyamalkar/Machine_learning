@@ -276,21 +276,18 @@ machine-learning/
 │
 
 ├── supervised-learning/
-
-│   ├── classification/
-
-│   │   ├── logistic-regression/
-
-│   │   ├── decision-tree/
-
-│   │   ├── random-forest/
-
-│   │   ├── svm/
-
-│   │   ├── knn/
-
-│   │   ├── naive-bayes/
-
+│   
+├── classification/
+│
+├── logistic-regression/
+│
+├── decision-tree/
+|
+├── random-forest/
+|
+├── svm/
+├── knn/
+├── naive-bayes/
 │   │   └── boosting/
 
 │   │
