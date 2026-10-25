@@ -1,6 +1,6 @@
 Machine Learning: Algorithms, Theory, Coding, and Interview Preparation
 
-This repository is my structured learning journey through Machine Learning. It covers the major machine learning approaches, their algorithms, theoretical foundations, practical implementations, and interview preparation.
+This repository is my structured learning journey through Machine Learning. It covers the major machine learning approaches, their algorithms, theoretical foundations, practical implementations with coding, and interview preparation.
 
 My goal is to understand not only how to implement an algorithm using Python, but also why it is needed, how it works, when to use it, and how to evaluate its performance.
 
@@ -8,14 +8,18 @@ Each algorithm is studied with explanations, practical coding examples using sui
 
 Learning Objectives
 
-Understand the fundamentals and intuition behind machine learning algorithms.
-Learn the mathematics behind algorithms where necessary.
-Implement algorithms using Python and relevant machine learning libraries.
-Understand data preprocessing, feature engineering, and model evaluation.
-Experiment with important hyperparameters and understand their effects.
-Learn the strengths, limitations, and practical applications of each algorithm.
-Prepare for Machine Learning Engineer interviews through conceptual and coding questions.
-Build a collection of reproducible machine learning notebooks and projects.
+    Understand the fundamentals and intuition behind machine learning algorithms.
+    
+    Learn the mathematics behind algorithms where necessary.
+    
+    Implement algorithms using Python and relevant machine learning libraries.
+    
+    Understand data preprocessing, feature engineering, and model evaluation.
+    
+    Experiment with important hyperparameters and understand their effects.
+    Learn the strengths, limitations, and practical applications of each algorithm.
+    Prepare for Machine Learning Engineer interviews through conceptual and coding questions.
+    Build a collection of reproducible machine learning notebooks and projects.
 
 Repository Contents
 
